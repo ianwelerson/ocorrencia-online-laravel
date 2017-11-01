@@ -1,0 +1,8 @@
+*
+!/base_teste
+!/base_teste/base.json
+!/base_teste/sistema_identificacao_civil.json
+!/base_teste/sistema_operadora.json
+!/documento/
+!/rosto/
+!.gitignore

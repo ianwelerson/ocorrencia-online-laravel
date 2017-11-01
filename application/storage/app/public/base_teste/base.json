@@ -1,0 +1,92 @@
+[
+	{
+		"nome" : "Gabriel da Silva",
+		"dt_nascimento" : "19/09/1965",
+		"nome_mae" : "Maria da Silva",
+		"rg" : "6418440",
+		"cpf" : "55390215680",
+		"email" : "gabriel.silva@gmail.com",
+		"telefone" : "27935645785"
+	},
+	{
+		"nome" : "Alberto Barros",
+		"dt_nascimento" : "18/01/1980",
+		"nome_mae" : "Ana Barros",
+		"rg" : "4731719",
+		"cpf" : "90867804904",
+		"email" : "alberto.barros@gmail.com",
+		"telefone" : "27951515109"
+	},
+	{
+		"nome" : "Juliana Almeida",
+		"dt_nascimento" : "09/07/1997",
+		"nome_mae" : "Patricia Almeida",
+		"rg" : "1326049",
+		"cpf" : "63178976973",
+		"email" : "juliana.almeida@gmail.com",
+		"telefone" : "27911348158"
+	},
+	{
+		"nome" : "Diana Xavier",
+		"dt_nascimento" : "15/01/1966",
+		"nome_mae" : "Juliana Xavier",
+		"rg" : "5529714",
+		"cpf" : "66711539818",
+		"email" : "diana.xavier@gmail.com",
+		"telefone" : "27908004046"
+	},
+	{
+		"nome" : "Reginaldo Gomes",
+		"dt_nascimento" : "26/09/1977",
+		"nome_mae" : "Rosa Gomes",
+		"rg" : "4316860",
+		"cpf" : "87483556668",
+		"email" : "reginaldo.gomes@gmail.com",
+		"telefone" : "27945960188"
+	},
+	{
+		"nome" : "Rubens Chaves",
+		"dt_nascimento" : "19/02/1982",
+		"nome_mae" : "Ana Chaves",
+		"rg" : "1572819",
+		"cpf" : "31504595084",
+		"email" : "rubens.chaves@gmail.com",
+		"telefone" : "27911915826"
+	},
+	{
+		"nome" : "Ana Maria Bonassa",
+		"dt_nascimento" : "15/10/1977",
+		"nome_mae" : "Gabriela Bonassa",
+		"rg" : "8750393",
+		"cpf" : "17683625051",
+		"email" : "ana.bonassa@gmail.com",
+		"telefone" : "27920166329"
+	},
+	{
+		"nome" : "Mauricio Cid",
+		"dt_nascimento" : "07/12/1977",
+		"nome_mae" : "Miriam Cid",
+		"rg" : "1275942",
+		"cpf" : "49349442574",
+		"email" : "mauricio.cid@gmail.com",
+		"telefone" : "27953051304"
+	},
+	{
+		"nome" : "Vitoria Cardoso",
+		"dt_nascimento" : "23/10/1971",
+		"nome_mae" : "Selma Cardoso",
+		"rg" : "5900014",
+		"cpf" : "71610619030",
+		"email" : "vitoria.cardoso@gmail.com",
+		"telefone" : "27927272062"
+	},
+	{
+		"nome" : "Ana Sims",
+		"dt_nascimento" : "14/11/1973",
+		"nome_mae" : "Vilma Silms",
+		"rg" : "9939330",
+		"cpf" : "56720320017",
+		"email" : "ana.sims@gmail.com",
+		"telefone" : "27958392351"
+	}
+]

@@ -1,0 +1,221 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+
+
+/* Definições cores */
+
+.main-blue {
+    background-color: #a3d5e0;
+}
+
+.sesp-blue {
+    background-color: #006a88 !important;
+}
+
+.dark-blue {
+  background-color: #006480;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+    color: #016380;
+}
+
+.tabs .tab a {
+    color: #006a88;
+}
+
+.tabs .indicator {
+    background-color: #006a88;
+}
+
+
+
+/* ---------------- Cores dos formulários ---------------- */
+
+/* Cor do underline */
+input:not([type]):focus:not([readonly]),
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=url]:not(.browser-default):focus:not([readonly]),
+input[type=time]:not(.browser-default):focus:not([readonly]),
+input[type=date]:not(.browser-default):focus:not([readonly]),
+input[type=datetime]:not(.browser-default):focus:not([readonly]),
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]),
+input[type=tel]:not(.browser-default):focus:not([readonly]),
+input[type=number]:not(.browser-default):focus:not([readonly]),
+input[type=search]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #006a88;
+  -webkit-box-shadow: 0 1px 0 0 #006a88;
+         box-shadow: 0 1px 0 0 #006a88;
+}
+
+/* Cor do label */
+input:not([type]):focus:not([readonly]) + label,
+input[type=text]:not(.browser-default):focus:not([readonly]) + label,
+input[type=password]:not(.browser-default):focus:not([readonly]) + label,
+input[type=email]:not(.browser-default):focus:not([readonly]) + label,
+input[type=url]:not(.browser-default):focus:not([readonly]) + label,
+input[type=time]:not(.browser-default):focus:not([readonly]) + label,
+input[type=date]:not(.browser-default):focus:not([readonly]) + label,
+input[type=datetime]:not(.browser-default):focus:not([readonly]) + label,
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]) + label,
+input[type=tel]:not(.browser-default):focus:not([readonly]) + label,
+input[type=number]:not(.browser-default):focus:not([readonly]) + label,
+input[type=search]:not(.browser-default):focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #006a88;
+}
+
+/* Cor do dropdown */
+
+.dropdown-content li > a, .dropdown-content li > span {
+  color: #006a88;
+}
+
+/* Cor do focus do ícone no formulário */
+.input-field .prefix.active {
+  color: #006a88;
+}
+
+
+/* ---------------- Footer ---------------- */
+
+.page-footer {
+  margin-top: 60px;
+  padding: 0;
+}
+
+/* ---------------- Botões ---------------- */
+
+.btn-efetuar-registro {
+  margin-top: 10px;
+}
+
+.btn-voltar {
+  margin-top: 30px;
+}
+
+.btn-fotos-registro {
+  margin-bottom: 10px;
+}
+
+/* ---------------- Mensagens personalizadas ---------------- */
+.field-error {
+  color: red;
+  margin: 0 0 -20px 0;
+}
+
+/* ---------------- Preencher toda a tela ---------------- */
+@media (min-width: 992px) {
+  .full-screen {
+    min-height: 67.2vh;
+  }
+}
+
+/* ---------------- Área do MeuCadastro ---------------- */
+
+.area-meucadastro {
+  min-height: 68vh;
+}
+
+.usuario-info {
+  margin-top: 2px;
+  margin-bottom: 0;
+}
+.usuario-info-title {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+.usuario-foto{
+  max-height: 20vh;
+  max-width: 15vh;
+}
+
+.picker__select--month.browser-default {
+    float: right;
+    margin-right: 2em;
+}
+
+/* ---------------- Mensagens ---------------- */
+
+.alert-msg {
+  text-align: center;
+  padding: 15px;
+  background-color: #ff8a80;
+  color: white;
+  margin-bottom: 15px;
+  border-radius: 7px;
+}
+
+.success-msg {
+  text-align: center;
+  padding: 15px;
+  background-color: #81c784;
+  color: white;
+  margin-bottom: 15px;
+  border-radius: 7px;
+}
+
+/* ---------------- Area de registro de ocorrências ---------------- */
+
+.tabs {
+  margin-bottom: 30px;
+}
+
+/* ---------------- Area de login ---------------- */
+
+.cadastre-se-agora {
+  Margin-top: 50px;
+}
+
+/* ---------------- Mapa do Crime ---------------- */
+
+#map {
+ height: 60vh;
+ width: 100%;
+}
+
+.coord-user {
+  display: none;
+}
+
+.index-map {
+  padding-top: 20vh;
+}
+
+@media (max-width: 992px) {
+  .index-map {
+    padding-top: 30vh;
+  }
+}
+
+/* ---------------- Atendimento da Ocorrência ---------------- */
+.descricao-atendimento {
+  height: 50px;
+}
+
+/* ---------------- Gerenciar Usuario ---------------- */
+.fotos-aprovacao {
+  width: 40vh;
+  height: 40vh;
+}
+
+/* ---------------- Index da Aplicação ---------------- */
+
+.index-app {
+  padding-top: 20vh;
+}
+
+@media (max-width: 992px) {
+  .index-app {
+    padding-top: 30vh;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ocorrência Online",
+  "short_name": "Ocorrência Online",
+  "icons": [{
+    "src": "assets/images/logo.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#006a88",
+  "theme_color": "#006a88"
+}
