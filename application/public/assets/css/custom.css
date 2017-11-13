@@ -219,3 +219,9 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
     padding-top: 30vh;
   }
 }
+
+/* ---------------- Title Header ---------------- */
+
+.title-header {
+  font-size: 1.5rem !important;
+}
