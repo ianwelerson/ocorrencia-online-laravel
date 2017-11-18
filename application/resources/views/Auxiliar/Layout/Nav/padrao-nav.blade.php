@@ -3,7 +3,7 @@
 
     <a id="logo-container" href="{{url('/')}}" class="brand-logo hide-on-med-and-down">Ocorrência Online</a>
 
-    <a id="logo-container" href="{{url('/')}}" class="brand-logo hide-on-large-only">@yield('page-title')</a>
+    <a id="logo-container" href="{{url('/')}}" class="brand-logo hide-on-large-only title-header">@yield('page-title')</a>
 
     <ul class="right hide-on-med-and-down">
       @if($isLogged == true)
