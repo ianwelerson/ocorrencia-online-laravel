@@ -8,7 +8,7 @@
   <div class="row full-screen">
 
 
-    @include('auxiliar/dados/ocorrencia/dados-ocorrencia')
+    @include('Auxiliar/Dados/Ocorrencia/dados-ocorrencia')
 
     <div class="col s12">
       <div class="col s12 l4 offset-l2">

@@ -9,7 +9,7 @@
 
     <div class="row full-screen">
 
-    @include('auxiliar/dados/ocorrencia/dados-ocorrencia')
+    @include('Auxiliar/Dados/Ocorrencia/dados-ocorrencia')
 
     <div class="divider"></div>
 
